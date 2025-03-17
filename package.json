@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/styled": "^11.14.0",
+    "@mui/material": "^6.4.7",
     "@xyflow/react": "^12.4.4",
     "next": "15.2.1",
     "react": "^19.0.0",
